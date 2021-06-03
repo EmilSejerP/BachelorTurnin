@@ -1,0 +1,890 @@
+{
+    "name": "Tree",
+    "directed": true,
+    "strict": false,
+    "_subgraph_cnt": 0,
+    "objects": [
+        {
+            "_gvid": 0,
+            "name": "0",
+            "color": "black",
+            "fillcolor": "green",
+            "fontname": "helvetica",
+            "label": "total_votes <= 1079.5\\nmse = 0.48\\nsamples = 733\\nvalue = 6.407",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 1,
+            "name": "1",
+            "color": "black",
+            "fillcolor": "#f0b88f",
+            "fontname": "helvetica",
+            "label": "duration <= 63.5\\nmse = 0.374\\nsamples = 587\\nvalue = 6.23",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 2,
+            "name": "2",
+            "color": "black",
+            "fillcolor": "#f3c3a0",
+            "fontname": "helvetica",
+            "label": "total_votes <= 116.5\\nmse = 0.553\\nsamples = 105\\nvalue = 5.842",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 3,
+            "name": "3",
+            "color": "black",
+            "fillcolor": "#f5cdb0",
+            "fontname": "helvetica",
+            "label": "year <= 1928.0\\nmse = 0.858\\nsamples = 18\\nvalue = 5.47",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 4,
+            "name": "4",
+            "color": "black",
+            "fillcolor": "#f1bc95",
+            "fontname": "helvetica",
+            "label": "duration <= 61.0\\nmse = 0.145\\nsamples = 9\\nvalue = 6.09",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 5,
+            "name": "5",
+            "color": "black",
+            "fillcolor": "#f2be9a",
+            "fontname": "helvetica",
+            "label": "mse = 0.059\\nsamples = 8\\nvalue = 5.989",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 6,
+            "name": "6",
+            "color": "black",
+            "fillcolor": "#eca26d",
+            "fontname": "helvetica",
+            "label": "mse = -0.0\\nsamples = 1\\nvalue = 7.0",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 7,
+            "name": "7",
+            "color": "black",
+            "fillcolor": "#f7dac5",
+            "fontname": "helvetica",
+            "label": "Comedy <= 0.5\\nmse = 0.882\\nsamples = 9\\nvalue = 4.992",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 8,
+            "name": "8",
+            "color": "black",
+            "fillcolor": "#f5cfb4",
+            "fontname": "helvetica",
+            "label": "mse = 0.373\\nsamples = 6\\nvalue = 5.39",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 9,
+            "name": "9",
+            "color": "black",
+            "fillcolor": "#ffffff",
+            "fontname": "helvetica",
+            "label": "mse = 0.296\\nsamples = 3\\nvalue = 3.667",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 10,
+            "name": "10",
+            "color": "black",
+            "fillcolor": "#f2c09d",
+            "fontname": "helvetica",
+            "label": "Drama <= 0.5\\nmse = 0.459\\nsamples = 87\\nvalue = 5.917",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 11,
+            "name": "11",
+            "color": "black",
+            "fillcolor": "#f3c5a4",
+            "fontname": "helvetica",
+            "label": "total_votes <= 165.5\\nmse = 0.374\\nsamples = 42\\nvalue = 5.742",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 12,
+            "name": "12",
+            "color": "black",
+            "fillcolor": "#f1bb94",
+            "fontname": "helvetica",
+            "label": "mse = 0.163\\nsamples = 11\\nvalue = 6.123",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 13,
+            "name": "13",
+            "color": "black",
+            "fillcolor": "#f4c9aa",
+            "fontname": "helvetica",
+            "label": "mse = 0.379\\nsamples = 31\\nvalue = 5.618",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 14,
+            "name": "14",
+            "color": "black",
+            "fillcolor": "#f1bc96",
+            "fontname": "helvetica",
+            "label": "total_votes <= 745.5\\nmse = 0.484\\nsamples = 45\\nvalue = 6.066",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 15,
+            "name": "15",
+            "color": "black",
+            "fillcolor": "#f2bf9a",
+            "fontname": "helvetica",
+            "label": "mse = 0.491\\nsamples = 41\\nvalue = 5.983",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 16,
+            "name": "16",
+            "color": "black",
+            "fillcolor": "#eead7e",
+            "fontname": "helvetica",
+            "label": "mse = 0.077\\nsamples = 4\\nvalue = 6.625",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 17,
+            "name": "17",
+            "color": "black",
+            "fillcolor": "#f0b58b",
+            "fontname": "helvetica",
+            "label": "total_votes <= 262.0\\nmse = 0.298\\nsamples = 482\\nvalue = 6.312",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 18,
+            "name": "18",
+            "color": "black",
+            "fillcolor": "#f1b991",
+            "fontname": "helvetica",
+            "label": "duration <= 80.5\\nmse = 0.279\\nsamples = 218\\nvalue = 6.18",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 19,
+            "name": "19",
+            "color": "black",
+            "fillcolor": "#f1bd97",
+            "fontname": "helvetica",
+            "label": "Thriller <= 0.5\\nmse = 0.249\\nsamples = 129\\nvalue = 6.051",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 20,
+            "name": "20",
+            "color": "black",
+            "fillcolor": "#f1bc96",
+            "fontname": "helvetica",
+            "label": "mse = 0.245\\nsamples = 127\\nvalue = 6.068",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 21,
+            "name": "21",
+            "color": "black",
+            "fillcolor": "#f5cdb1",
+            "fontname": "helvetica",
+            "label": "mse = 0.014\\nsamples = 2\\nvalue = 5.46",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 22,
+            "name": "22",
+            "color": "black",
+            "fillcolor": "#f0b48a",
+            "fontname": "helvetica",
+            "label": "duration <= 117.5\\nmse = 0.269\\nsamples = 89\\nvalue = 6.35",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 23,
+            "name": "23",
+            "color": "black",
+            "fillcolor": "#f0b68c",
+            "fontname": "helvetica",
+            "label": "mse = 0.269\\nsamples = 80\\nvalue = 6.303",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 24,
+            "name": "24",
+            "color": "black",
+            "fillcolor": "#eda876",
+            "fontname": "helvetica",
+            "label": "mse = 0.047\\nsamples = 9\\nvalue = 6.8",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 25,
+            "name": "25",
+            "color": "black",
+            "fillcolor": "#efb287",
+            "fontname": "helvetica",
+            "label": "duration <= 275.0\\nmse = 0.286\\nsamples = 264\\nvalue = 6.423",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 26,
+            "name": "26",
+            "color": "black",
+            "fillcolor": "#efb387",
+            "fontname": "helvetica",
+            "label": "duration <= 146.5\\nmse = 0.279\\nsamples = 263\\nvalue = 6.412",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 27,
+            "name": "27",
+            "color": "black",
+            "fillcolor": "#efb286",
+            "fontname": "helvetica",
+            "label": "mse = 0.267\\nsamples = 258\\nvalue = 6.427",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 28,
+            "name": "28",
+            "color": "black",
+            "fillcolor": "#f4c8a8",
+            "fontname": "helvetica",
+            "label": "mse = 0.291\\nsamples = 5\\nvalue = 5.657",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 29,
+            "name": "29",
+            "color": "black",
+            "fillcolor": "#ea975c",
+            "fontname": "helvetica",
+            "label": "mse = 0.0\\nsamples = 1\\nvalue = 7.4",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 30,
+            "name": "30",
+            "color": "black",
+            "fillcolor": "green",
+            "fontname": "helvetica",
+            "label": "total_votes <= 3278.5\\nmse = 0.305\\nsamples = 146\\nvalue = 7.088",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 31,
+            "name": "31",
+            "color": "black",
+            "fillcolor": "green",
+            "fontname": "helvetica",
+            "label": "Thriller <= 0.5\\nmse = 0.256\\nsamples = 92\\nvalue = 6.896",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 32,
+            "name": "32",
+            "color": "black",
+            "fillcolor": "green",
+            "fontname": "helvetica",
+            "label": "duration <= 119.0\\nmse = 0.228\\nsamples = 91\\nvalue = 6.924",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 33,
+            "name": "33",
+            "color": "black",
+            "fillcolor": "green",
+            "fontname": "helvetica",
+            "label": "total_votes <= 1397.5\\nmse = 0.214\\nsamples = 84\\nvalue = 6.874",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 34,
+            "name": "34",
+            "color": "black",
+            "fillcolor": "#eeab7b",
+            "fontname": "helvetica",
+            "label": "mse = 0.169\\nsamples = 29\\nvalue = 6.682",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 35,
+            "name": "35",
+            "color": "black",
+            "fillcolor": "green",
+            "fontname": "helvetica",
+            "label": "mse = 0.208\\nsamples = 55\\nvalue = 6.972",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 36,
+            "name": "36",
+            "color": "black",
+            "fillcolor": "#e9975b",
+            "fontname": "helvetica",
+            "label": "year <= 1930.0\\nmse = 0.103\\nsamples = 7\\nvalue = 7.417",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 37,
+            "name": "37",
+            "color": "black",
+            "fillcolor": "#ea9b61",
+            "fontname": "helvetica",
+            "label": "mse = 0.057\\nsamples = 5\\nvalue = 7.278",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 38,
+            "name": "38",
+            "color": "black",
+            "fillcolor": "#e78b49",
+            "fontname": "helvetica",
+            "label": "mse = 0.009\\nsamples = 2\\nvalue = 7.833",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 39,
+            "name": "39",
+            "color": "black",
+            "fillcolor": "#f3c6a6",
+            "fontname": "helvetica",
+            "label": "mse = -0.0\\nsamples = 1\\nvalue = 5.7",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 40,
+            "name": "40",
+            "color": "black",
+            "fillcolor": "#e9965a",
+            "fontname": "helvetica",
+            "label": "total_votes <= 25071.0\\nmse = 0.203\\nsamples = 54\\nvalue = 7.438",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 41,
+            "name": "41",
+            "color": "black",
+            "fillcolor": "#ea985e",
+            "fontname": "helvetica",
+            "label": "year <= 1928.5\\nmse = 0.175\\nsamples = 47\\nvalue = 7.356",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 42,
+            "name": "42",
+            "color": "black",
+            "fillcolor": "#e99356",
+            "fontname": "helvetica",
+            "label": "year <= 1923.5\\nmse = 0.212\\nsamples = 19\\nvalue = 7.538",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 43,
+            "name": "43",
+            "color": "black",
+            "fillcolor": "#eca16c",
+            "fontname": "helvetica",
+            "label": "mse = 0.105\\nsamples = 5\\nvalue = 7.043",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 44,
+            "name": "44",
+            "color": "black",
+            "fillcolor": "#e88e4e",
+            "fontname": "helvetica",
+            "label": "mse = 0.127\\nsamples = 14\\nvalue = 7.721",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 45,
+            "name": "45",
+            "color": "black",
+            "fillcolor": "#eb9c63",
+            "fontname": "helvetica",
+            "label": "duration <= 68.0\\nmse = 0.111\\nsamples = 28\\nvalue = 7.232",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 46,
+            "name": "46",
+            "color": "black",
+            "fillcolor": "#eda774",
+            "fontname": "helvetica",
+            "label": "mse = 0.198\\nsamples = 5\\nvalue = 6.85",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 47,
+            "name": "47",
+            "color": "black",
+            "fillcolor": "#ea995f",
+            "fontname": "helvetica",
+            "label": "mse = 0.039\\nsamples = 23\\nvalue = 7.333",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 48,
+            "name": "48",
+            "color": "black",
+            "fillcolor": "#e68641",
+            "fontname": "helvetica",
+            "label": "year <= 1930.5\\nmse = 0.015\\nsamples = 7\\nvalue = 8.022",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 49,
+            "name": "49",
+            "color": "black",
+            "fillcolor": "#e6843d",
+            "fontname": "helvetica",
+            "label": "Adventure <= 0.5\\nmse = 0.003\\nsamples = 4\\nvalue = 8.1",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 50,
+            "name": "50",
+            "color": "black",
+            "fillcolor": "#e6843e",
+            "fontname": "helvetica",
+            "label": "mse = 0.002\\nsamples = 3\\nvalue = 8.08",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 51,
+            "name": "51",
+            "color": "black",
+            "fillcolor": "#e58139",
+            "fontname": "helvetica",
+            "label": "mse = -0.0\\nsamples = 1\\nvalue = 8.2",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 52,
+            "name": "52",
+            "color": "black",
+            "fillcolor": "#e78a48",
+            "fontname": "helvetica",
+            "label": "year <= 1931.5\\nmse = 0.002\\nsamples = 3\\nvalue = 7.867",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 53,
+            "name": "53",
+            "color": "black",
+            "fillcolor": "#e78c4a",
+            "fontname": "helvetica",
+            "label": "mse = 0.0\\nsamples = 1\\nvalue = 7.8",
+            "shape": "box",
+            "style": "filled, rounded"
+        },
+        {
+            "_gvid": 54,
+            "name": "54",
+            "color": "black",
+            "fillcolor": "#e78946",
+            "fontname": "helvetica",
+            "label": "mse = -0.0\\nsamples = 2\\nvalue = 7.9",
+            "shape": "box",
+            "style": "filled, rounded"
+        }
+    ],
+    "edges": [
+        {
+            "_gvid": 0,
+            "tail": 0,
+            "head": 1,
+            "fontname": "helvetica",
+            "headlabel": "True",
+            "labelangle": "45",
+            "labeldistance": "2.5"
+        },
+        {
+            "_gvid": 2,
+            "tail": 1,
+            "head": 2,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 4,
+            "tail": 2,
+            "head": 3,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 6,
+            "tail": 3,
+            "head": 4,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 8,
+            "tail": 4,
+            "head": 5,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 9,
+            "tail": 4,
+            "head": 6,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 7,
+            "tail": 3,
+            "head": 7,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 10,
+            "tail": 7,
+            "head": 8,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 11,
+            "tail": 7,
+            "head": 9,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 5,
+            "tail": 2,
+            "head": 10,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 12,
+            "tail": 10,
+            "head": 11,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 14,
+            "tail": 11,
+            "head": 12,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 15,
+            "tail": 11,
+            "head": 13,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 13,
+            "tail": 10,
+            "head": 14,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 16,
+            "tail": 14,
+            "head": 15,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 17,
+            "tail": 14,
+            "head": 16,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 3,
+            "tail": 1,
+            "head": 17,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 18,
+            "tail": 17,
+            "head": 18,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 20,
+            "tail": 18,
+            "head": 19,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 22,
+            "tail": 19,
+            "head": 20,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 23,
+            "tail": 19,
+            "head": 21,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 21,
+            "tail": 18,
+            "head": 22,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 24,
+            "tail": 22,
+            "head": 23,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 25,
+            "tail": 22,
+            "head": 24,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 19,
+            "tail": 17,
+            "head": 25,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 26,
+            "tail": 25,
+            "head": 26,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 28,
+            "tail": 26,
+            "head": 27,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 29,
+            "tail": 26,
+            "head": 28,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 27,
+            "tail": 25,
+            "head": 29,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 1,
+            "tail": 0,
+            "head": 30,
+            "fontname": "helvetica",
+            "headlabel": "False",
+            "labelangle": "-45",
+            "labeldistance": "2.5"
+        },
+        {
+            "_gvid": 30,
+            "tail": 30,
+            "head": 31,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 32,
+            "tail": 31,
+            "head": 32,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 34,
+            "tail": 32,
+            "head": 33,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 36,
+            "tail": 33,
+            "head": 34,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 37,
+            "tail": 33,
+            "head": 35,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 35,
+            "tail": 32,
+            "head": 36,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 38,
+            "tail": 36,
+            "head": 37,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 39,
+            "tail": 36,
+            "head": 38,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 33,
+            "tail": 31,
+            "head": 39,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 31,
+            "tail": 30,
+            "head": 40,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 40,
+            "tail": 40,
+            "head": 41,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 42,
+            "tail": 41,
+            "head": 42,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 44,
+            "tail": 42,
+            "head": 43,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 45,
+            "tail": 42,
+            "head": 44,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 43,
+            "tail": 41,
+            "head": 45,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 46,
+            "tail": 45,
+            "head": 46,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 47,
+            "tail": 45,
+            "head": 47,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 41,
+            "tail": 40,
+            "head": 48,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 48,
+            "tail": 48,
+            "head": 49,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 50,
+            "tail": 49,
+            "head": 50,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 51,
+            "tail": 49,
+            "head": 51,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 49,
+            "tail": 48,
+            "head": 52,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 52,
+            "tail": 52,
+            "head": 53,
+            "fontname": "helvetica"
+        },
+        {
+            "_gvid": 53,
+            "tail": 52,
+            "head": 54,
+            "fontname": "helvetica"
+        }
+    ]
+}
